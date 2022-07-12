@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-b72b7f52","path":"/guide/js/Math.html","title":"[Math\u5BF9\u8C61\u5728\u7EBF\u6587\u6863](Math - JavaScript | MDN (mozilla.org))","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{},"filePathRelative":"guide/js/Math.md"}');export{t as data};

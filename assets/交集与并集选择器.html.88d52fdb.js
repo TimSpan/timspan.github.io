@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-65b2e4f6","path":"/guide/js/%E4%BA%A4%E9%9B%86%E4%B8%8E%E5%B9%B6%E9%9B%86%E9%80%89%E6%8B%A9%E5%99%A8.html","title":"\u4EA4\u96C6\u4E0E\u5E76\u96C6\u9009\u62E9\u5668","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{},"filePathRelative":"guide/js/\u4EA4\u96C6\u4E0E\u5E76\u96C6\u9009\u62E9\u5668.md"}');export{e as data};

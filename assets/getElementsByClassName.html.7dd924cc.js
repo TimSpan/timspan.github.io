@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-5e90e380","path":"/guide/js/getElementsByClassName.html","title":"getElementsByClassName","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{},"filePathRelative":"guide/js/getElementsByClassName.md"}');export{e as data};
